@@ -31,8 +31,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/52749888/227733913-67dd622d-1e6f-4815-9c25-555a1b5e87e1.gif)
+Here's a walkthrough of implemented user stories: 
+
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/52749888/227733913-67dd622d-1e6f-4815-9c25-555a1b5e87e1.gif) 
+
 https://imgur.com/a/7LNZapT.gif
 
 
