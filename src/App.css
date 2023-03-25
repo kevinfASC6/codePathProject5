@@ -1,0 +1,175 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.wordFilter input {
+  padding: 8px 12px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  width: 200px;
+}
+
+.likefilter input {
+  width: 100px;
+}
+
+.butn {
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.butn:hover {
+  background-color: #3e8e41;
+}
+
+.table {
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: left;
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+} 
+ 
+
+
+.nav-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  margin-right: 20px;
+}
+
+li:last-child {
+  margin-right: 0;
+}
+
+li a {
+  display: block;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+}
+
+li a:hover {
+  background-color: #eee;
+}
+
+
+
+
+
+.card {
+  background-color: #148973;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.card h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 0;
+} 
+
+
+
+
+
+
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.topLeft {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.totalCards {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .totalCards {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .topLeft {
+    flex-direction: column;
+    align-items: center;
+  }
+}
