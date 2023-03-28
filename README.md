@@ -4,7 +4,7 @@ Submitted by: **Kevin Feng**
 
 This web app: **Displays 15 random verified information about Cats! Includes time updated, source and number of times sent by the bot**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
