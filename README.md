@@ -33,9 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories: 
 
-![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/52749888/227733913-67dd622d-1e6f-4815-9c25-555a1b5e87e1.gif) 
+![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/52749888/228309903-8ef01f17-36b7-4b81-8c35-a1178a88e7ba.gif)
+https://imgur.com/a/lAGZVIM.gif
 
-https://imgur.com/a/7LNZapT.gif
 
 
 ## Notes
