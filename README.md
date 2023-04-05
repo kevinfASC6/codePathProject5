@@ -2,11 +2,11 @@
 
 Submitted by: **Kevin Feng**
 
-# Web Development Project 6 - *Name of App Here*
+# Web Development Project 6 - *Cat Purradise*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kevin Feng**
 
-This web app: **insert description**
+This web app: **added table, and somewhat working details page**
 
 Time spent: **7** hours spent in total
 
